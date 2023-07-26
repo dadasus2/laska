@@ -19,7 +19,7 @@ function kokot() {
             image.src = "imgs/1080.png"
             break;
         case '4K':
-            image.src = "imgs/4K.png"
+            image.src = "imgs/vita.jpg"
             break;
         default:
             image.src = "imgs/144.png"
